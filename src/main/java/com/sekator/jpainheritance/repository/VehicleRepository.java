@@ -1,6 +1,6 @@
-package com.codeforgeyt.jpainheritance.repository;
+package com.sekator.jpainheritance.repository;
 
-import com.codeforgeyt.jpainheritance.model.Vehicle;
+import com.sekator.jpainheritance.model.Vehicle;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.NoRepositoryBean;
 

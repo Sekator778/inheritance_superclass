@@ -1,4 +1,4 @@
-package com.codeforgeyt.jpainheritance.repository;
+package com.sekator.jpainheritance.repository;
 
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,4 +1,4 @@
-package com.codeforgeyt.jpainheritance.model;
+package com.sekator.jpainheritance.model;
 
 import javax.persistence.Entity;
 

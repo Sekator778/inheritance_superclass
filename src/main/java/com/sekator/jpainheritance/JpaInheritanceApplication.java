@@ -1,11 +1,10 @@
-package com.codeforgeyt.jpainheritance;
+package com.sekator.jpainheritance;
 
-import com.codeforgeyt.jpainheritance.model.Tank;
-import com.codeforgeyt.jpainheritance.model.Truck;
-import com.codeforgeyt.jpainheritance.model.Vehicle;
-import com.codeforgeyt.jpainheritance.repository.TankRepository;
-import com.codeforgeyt.jpainheritance.repository.TruckRepository;
-import com.codeforgeyt.jpainheritance.repository.VehicleRepository;
+import com.sekator.jpainheritance.model.Tank;
+import com.sekator.jpainheritance.model.Truck;
+import com.sekator.jpainheritance.repository.TankRepository;
+import com.sekator.jpainheritance.repository.TruckRepository;
+import com.sekator.jpainheritance.repository.VehicleRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
